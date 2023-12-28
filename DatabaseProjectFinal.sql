@@ -1,10 +1,4 @@
-/*
-INFO 4140: Business Databases
-Project: Final Project
-Group number: 4
-Group Name: Jacinta Gitahi, Jay Hanstrom, Toyin Alli, Ryan Wells, Hang Ngo
-Section Number: 1
-*/
+
 
 -- Create the database
 
