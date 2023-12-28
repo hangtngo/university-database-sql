@@ -1,5 +1,3 @@
-
-
 -- Create the database
 
 CREATE DATABASE DANIELS2023
